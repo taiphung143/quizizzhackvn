@@ -5,7 +5,7 @@
 
 - [Khai thác API của Quizizz] (#fetching-quizizz-api)
 
-## Khai thác API của Quizizz
+## Cách hoạt động: Khai thác API của Quizizz
 
 Hoạt đông tốt nhất ở chế độ Quizizz Classic
 1. Tham gia bài test Quizizz Classic (Trắc nghiệm)
@@ -18,6 +18,7 @@ fetch("https://raw.githubusercontent.com/giaKhanhVN/quizizzhackvn/master/dist/bu
 .then((t) => eval(t)))
 ```
 5. Đóng ```CONSOLE``` và tận hưởng 100% đúng :))) (Câu sai sẽ bị làm mờ)
+- Lưu ý: Khi làm bài ```không``` được RELOAD page nhé, reload page phải thao tác lại từ đầu đấy. F5 tao bonk vào đầu
 
 ![screenshot](/docs/screenshot_1.png)
 *Hình minh hoạ (Test vào 23/2/2021)*
