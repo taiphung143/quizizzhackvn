@@ -20,7 +20,7 @@ fetch("https://raw.githubusercontent.com/KhanhVNMC/quizizzhackvn/master/dist/bun
 5. Đóng ```CONSOLE``` và tận hưởng 100% đúng :))) (Câu sai sẽ bị làm mờ)
 - Lưu ý: Khi làm bài ```không``` được RELOAD page nhé, reload page phải thao tác lại từ đầu đấy. F5 tao bonk vào đầu
 
-![screenshot](/docs/screenshot_1.png)
+![screenshot](/examples/screenshot_1.png)
 *Hình minh hoạ (Test vào 23/2/2021)*
 
 Made by GiaKhanhVN - Discord GiaKhanhVN#5187
