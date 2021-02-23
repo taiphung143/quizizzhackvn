@@ -15,6 +15,7 @@ fetch("https://raw.githubusercontent.com/giaKhanhVN/quizizzhackvn/master/dist/bu
 ```
 5. Đóng ```CONSOLE``` và tận hưởng (Câu sai sẽ bị làm mờ)
 
+![screenshot](/docs/screenshot_1.png)
 
 Made by GiaKhanhVN - Discord GiaKhanhVN#5187
 Email: khanhcarlo@gmail.com
