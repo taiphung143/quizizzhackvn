@@ -18,7 +18,7 @@
             } else n.filter((function(e) {
                 return Array.isArray(t.structure.answer) && t.structure.answer.length > 0 ? !t.structure.answer.some((function(t) {
                     return e.__vue__.optionData.actualIndex === t
-                })) : "number" == typeof t.structure.answer ? e.__vue__.optionData.actualIndex !== t.structure.answer : void console.error("Fail detecting type of question: ", t)
+                })) : "number" == typeof t.structure.answer ? e.__vue__.optionData.actualIndex !== t.structure.answer : void console.error("LỖI! Nhận dạng câu hỏi! ", t)
             })).forEach(r)
         },
         o = function() {
