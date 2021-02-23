@@ -13,9 +13,10 @@ fetch("https://raw.githubusercontent.com/giaKhanhVN/quizizzhackvn/master/dist/bu
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
-5. Đóng ```CONSOLE``` và tận hưởng (Câu sai sẽ bị làm mờ)
+5. Đóng ```CONSOLE``` và tận hưởng 100% đúng :))) (Câu sai sẽ bị làm mờ)
 
 ![screenshot](/docs/screenshot_1.png)
+*Hình minh hoạ (Test vào 23/2/2021)*
 
 Made by GiaKhanhVN - Discord GiaKhanhVN#5187
 Email: khanhcarlo@gmail.com
