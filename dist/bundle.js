@@ -49,7 +49,7 @@
             function u(a) {
                 return function(u) {
                     return function(a) {
-                        if (r) throw new TypeError("Hack dang chay roi!.");
+                        if (r) throw new TypeError("LỖI! Tool hack đang chạy rùi mà? :");
                         for (; i;) try {
                             if (r = 1, n && (o = 2 & a[0] ? n.return : a[0] ? n.throw || ((o = n.return) && o.call(n), 0) : n.next) && !(o = o.call(n, a[1])).done) return o;
                             switch (n = 0, o && (a = [2 & a[0], o.value]), a[0]) {
@@ -105,7 +105,7 @@
         }(this, (function(r) {
             switch (r.label) {
                 case 0:
-                    return console.log("%c \n    Hack Quizizz version 0.1.0 - Tiếng Việt  %6\n    Tạo bởi GiaKhanhVN#5187 - Gia Khánh! \n    https://github.com/giaKhanhVN/quizizzhackvn\n      ", "color: red;"), [4, fetch("https://quizizz.com/api/main/game/" + o())];
+                    return console.log("%c \n    Hack Quizizz version 0.1.0 - Tiếng Việt  %6 \n    Tạo bởi GiaKhanhVN#5187 - Gia Khánh! \n    https://github.com/giaKhanhVN/quizizzhackvn\n      ", "color: red;"), [4, fetch("https://quizizz.com/api/main/game/" + o())];
                 case 1:
                     return [4, r.sent().json()];
                 case 2:
