@@ -67,8 +67,8 @@ const getRoomHash = (): string => {
 (async () => {
   console.log(
     `%c 
-    Script created by grzegorz#5119! 
-    https://github.com/gbaranski/quizizz-cheat
+    Tool Hack được tạo bởi GiaKhanhVN! 
+    https://github.com/giaKhanhVN/quizizzhackvn
       `,
     "color: red;"
   );
