@@ -13,7 +13,7 @@ Hoạt đông tốt nhất ở chế độ Quizizz Classic
 3. Vào phần ```CONSOLE```
 4. Dán code sau vào
 ```ts
-fetch("https://raw.githubusercontent.com/giaKhanhVN/quizizzhackvn/master/dist/bundle.js")
+fetch("https://raw.githubusercontent.com/KhanhVNMC/quizizzhackvn/master/dist/bundle.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
