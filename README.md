@@ -1,37 +1,21 @@
-# quizizz-cheat
+# Gian lan Quizizz
 
-There are two method of retrieving answers
+- [Khai thác API] (#fetching-quizizz-api)
 
-- [Fetching Quizizz API](#fetching-quizizz-api)
-- [Sending answers as someone else](#sending-answers-as-someone-else)(old method)
+## Khai thác API của Quizizz
 
-# Methods
-## Fetching Quizizz API
-
-Should work in Test and Classic mode.
-1. Join Quiz
-2. Open console and paste this
+Hoạt đông tốt nhất ở chế độ Quizizz Classic
+1. Tham gia bài test Quizizz Classic (Trắc nghiệm)
+2. Nhấn Ctrl + Shift + I (Windows) [Command + Shift + I (MacOS)]
+3. Vào phần ```CONSOLE```
+4. Paste code sau vào
 ```ts
-fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/master/dist/bundle.js")
+fetch("https://raw.githubusercontent.com/giaKhanhVN/quizizzhackvn/master/dist/bundle.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
-3. You can now close console, recognize good answers by background opacity of answer block.
-
-## Sending answers as someone else
-
-This works in different way, instead of fetching Quizizz API it sends answer to current question as someone else, Quizizz returns valid answer in response to submission.
-
-1. Join quiz, wait for first question and open console
-2. Paste this code to console
-```ts
-fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/oldmethod/dist/bundle.js")
-.then((res) => res.text()
-.then((t) => eval(t)))
-```
-3. Enter user name of any player(he won't get points even if he sent valid answer).
-4. Go to step 2
+5. Đóng Console và tận hưởng (Câu sai sẽ bị làm mờ)
 
 
-As we can see on this screenshot, anwser **www.quizizz.com** has highest opacity, that means its valid
-![screenshot](/docs/screenshot_1.png)
+Made by GiaKhanhVN - Discord GiaKhanhVN#5187
+Email: khanhcarlo@gmail.com
