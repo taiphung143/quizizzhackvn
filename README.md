@@ -23,5 +23,8 @@ fetch("https://raw.githubusercontent.com/KhanhVNMC/quizizzhackvn/master/dist/bun
 ![screenshot](/examples/screenshot_1.png)
 *Hình minh hoạ 1 [TRẮC NGHIỆM] (Test vào 23/2/2021)*
 
+![screenshot](/1.png)
+*Hình minh hoạ 2 [TỰ LUẬN] (Test vào 24/2/2021)*
+
 Made by GiaKhanhVN - Discord GiaKhanhVN#5187
 Email: khanhcarlo@gmail.com
