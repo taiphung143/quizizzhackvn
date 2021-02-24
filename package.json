@@ -1,7 +1,7 @@
 {
   "name": "HACK-QUIZIZZ-GKVN",
-  "version": "1.0.0",
-  "description": "Hack để việc học on ezvl",
+  "version": "0.1.0",
+  "description": "Hack để việc học online ez vl",
   "main": "src/index.ts",
   "private": true,
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giaKhanhVN/quizizzhackvn.git"
+    "url": "git+https://github.com/KhanhVNMC/quizizzhackvn.git"
   },
   "author": "gbaranski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/giaKhanhVN/quizizzhackvn/issues"
+    "url": "https://github.com/KhanhVNMC/quizizzhackvn/issues"
   },
-  "homepage": "https://github.com/giaKhanhVN/quizizzhackvn#readme",
+  "homepage": "https://github.com/Khanh/quizizzhackvn#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^7.0.0",
     "ts-loader": "^8.0.12",
