@@ -105,7 +105,7 @@
         }(this, (function(r) {
             switch (r.label) {
                 case 0:
-                    return console.log("%c \n    Hack Quizizz version 0.1.0 - Tiếng Việt  \n    Tạo bởi GiaKhanhVN#5187 - Gia Khánh! \n    https://github.com/K/quizizzhackvn\n      ", "color: red;"), [4, fetch("https://quizizz.com/api/main/game/" + o())];
+                    return console.log("%c \n    Hack Quizizz version 0.1.0 - Tiếng Việt  \n    Tạo bởi GiaKhanhVN#5187 - Gia Khánh! \n    https://github.com/Kha/quizizzhackvn\n      ", "color: red;"), [4, fetch("https://quizizz.com/api/main/game/" + o())];
                 case 1:
                     return [4, r.sent().json()];
                 case 2:
