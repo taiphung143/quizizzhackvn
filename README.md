@@ -9,7 +9,7 @@
 
 Hoạt đông tốt nhất ở chế độ Quizizz Classic
 1. Tham gia bài test Quizizz Classic (Trắc nghiệm, Tự luận ngắn)
-2. Nhấn Ctrl + Shift + I (Windows) [Command + Shift + I (MacOS)]
+2. Khi đã vào phần làm bài, hấn Ctrl + Shift + I (Windows) [Command + Shift + I (MacOS)]
 3. Vào phần ```CONSOLE```
 4. Dán code sau vào
 ```ts
