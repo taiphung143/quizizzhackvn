@@ -112,7 +112,7 @@
                     return t = r.sent(), e = void 0, setInterval((function() {
                         var r = function() {
                             var t = document.querySelector("body > div");
-                            if (!t) throw new Error("Could not retreive root object");
+                            if (!t) throw new Error("LỖI! Không thể truy xuất đối tượng gốc!");
                             var e = t.__vue__;
                             return {
                                 roomHash: e.$store._vm._data.$$state.game.data.roomHash,
