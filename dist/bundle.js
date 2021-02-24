@@ -6,7 +6,7 @@
         n = function(t) {
             var e = function() {
                     var t = document.querySelector("body > div > div.root-component > div > div > div > div.page-container.in-quiz > div.screen.screen-game > div.transitioner.transitioner-component > div > div > div > div > div > div.options-container > div");
-                    if (!t) throw new Error("Unable to retreive questions list element");
+                    if (!t) throw new Error("LỖI! Không thể truy xuất phần tử danh sách câu hỏi!");
                     return t
                 }(),
                 n = Array.prototype.slice.call(e.children);
@@ -18,12 +18,12 @@
             } else n.filter((function(e) {
                 return Array.isArray(t.structure.answer) && t.structure.answer.length > 0 ? !t.structure.answer.some((function(t) {
                     return e.__vue__.optionData.actualIndex === t
-                })) : "number" == typeof t.structure.answer ? e.__vue__.optionData.actualIndex !== t.structure.answer : void console.error("LỖI! Nhận dạng câu hỏi! ", t)
+                })) : "number" == typeof t.structure.answer ? e.__vue__.optionData.actualIndex !== t.structure.answer : void console.error("LỖI! Nhận dạng câu hỏi gặp sự cố!", t)
             })).forEach(r)
         },
         o = function() {
             var t = document.querySelector("body > div");
-            if (!t) throw new Error("Could not retreive root object");
+            if (!t) throw new Error("LỖI! Không thể truy xuất đối tượng gốc");
             return t.__vue__.$store._vm._data.$$state.game.data.roomHash
         };
     e = function() {
