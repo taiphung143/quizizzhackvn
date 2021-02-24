@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/KhanhVNMC/quizizzhackvn/issues"
   },
-  "homepage": "https://github.com/Khanh/quizizzhackvn#readme",
+  "homepage": "https://github.com/KhanhVN/quizizzhackvn#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^7.0.0",
     "ts-loader": "^8.0.12",
