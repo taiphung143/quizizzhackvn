@@ -68,7 +68,7 @@ const getRoomHash = (): string => {
   console.log(
     `%c 
     Tool Hack được tạo bởi GiaKhanhVN! 
-    https://github.com/KhanhMCVN/quizizzhackvn
+    https://github.com/Khanh/quizizzhackvn
       `,
     "color: red;"
   );
