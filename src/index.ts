@@ -5,7 +5,7 @@ const getQuestionsElement = () => {
     "body > div > div.root-component > div > div > div > div.page-container.in-quiz > div.screen.screen-game > div.transitioner.transitioner-component > div > div > div > div > div > div.options-container > div"
   );
   if (!questionsElem)
-    throw new Error("Unable to retreive questions list element");
+    throw new Error("Không thể truy xuất phần tử danh sách câu hỏi!");
 
   return questionsElem;
 };
@@ -68,7 +68,7 @@ const getRoomHash = (): string => {
   console.log(
     `%c 
     Tool Hack được tạo bởi GiaKhanhVN! 
-    https://github.com/giaKhanhVN/quizizzhackvn
+    https://github.com/KhanhMCVN/quizizzhackvn
       `,
     "color: red;"
   );
