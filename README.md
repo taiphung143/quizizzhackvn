@@ -25,6 +25,7 @@ fetch("https://raw.githubusercontent.com/KhanhVNMC/quizizzhackvn/master/dist/bun
 
 ![screenshot](/1.png)
 *Hình minh hoạ 2 [TỰ LUẬN] (Test vào 24/2/2021)*
+**Lưu ý:****Nếu câu hỏi có 2 hoặc nhiều hơn 1 đáp án, hệ thống sẽ hiện lên dưới dạng [*`ĐÁP ÁN 1` or `ĐÁP ÁN 2` or `v..v`*]
 
 Made by GiaKhanhVN - Discord GiaKhanhVN#5187
 Email: khanhcarlo@gmail.com
