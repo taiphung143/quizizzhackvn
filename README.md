@@ -1,6 +1,5 @@
 # Code gian lận Quizizz - GiaKhanhVN
 
-- Đây là code của một người Cộng Sản nên ai dùng cũng ok!
 - Dùng script này để bonk một phát vào đầu nhà phát triển Quizizz (LMAO)
 
 - [Khai thác API của Quizizz] (#fetching-quizizz-api)
