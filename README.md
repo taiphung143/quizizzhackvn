@@ -6,6 +6,8 @@
 
 ## Cách hoạt động: Khai thác API của Quizizz
 
+**ĐIỀU KIỆN HOẠT ĐỘNG** Người ra đề phải cho sẵn đáp án trên API (Cách nhận biết: Sau khi chọn một đáp án nếu người ra đề bật API thì sẽ hiện đúng sai ngay.)
+
 Hoạt đông tốt nhất ở chế độ **Quizizz Classic**
 1. Tham gia bài test **Quizizz Classic (Trắc nghiệm, Tự luận)**
 2. Khi đã vào phần làm bài, nhấn `Ctrl + Shift + I` (Windows) [`Command + Shift + I` (MacOS)]
